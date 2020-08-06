@@ -42,6 +42,7 @@
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/816px-Vimlogo.svg.png" />
 <img align="left" alt="eclipse" width="26px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" />
 
+<br /><br />
 
 [linkedin]: https://linkedin.com/in/wmboyles
 [website]: https://wmboyles.com
