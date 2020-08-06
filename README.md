@@ -1,5 +1,9 @@
 ### Hi, I'm William Boyles :wave:
 
+<p align="center">
+  <img src="https://wmboyles.com/Images/Index/MyPicture2.jpg" width="172px" height="172px"/>
+</p>
+
 ## I'm a Student and Developer
 - :mortar_board: I'm a junior in computer science :desktop_computer: at NC State :wolf:
 - :seedling: I'm working on learning more Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> libraries
@@ -10,10 +14,6 @@
 [<img align="left" alt="wmboyles website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="wmboyles wmail" width="26px" src="https://image.flaticon.com/icons/svg/95/95645.svg" />][email]
 [<img align="left" alt="wmboyles linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/wmboyles
-[website]: https://wmboyles.com
-[email]: mailto:wmboyle2@ncsu.edu
 
 <br /><br />
 
@@ -41,3 +41,8 @@
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/816px-Vimlogo.svg.png" />
 <img align="left" alt="eclipse" width="26px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" />
+
+
+[linkedin]: https://linkedin.com/in/wmboyles
+[website]: https://wmboyles.com
+[email]: mailto:wmboyle2@ncsu.edu
