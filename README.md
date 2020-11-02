@@ -1,7 +1,7 @@
 ### Hi, I'm William Boyles :wave:
 
 <p align="center">
-  <img src="https://wmboyles.com/Images/Index/MyPicture2.jpg" width="172px" height="172px"/>
+  <img src="https://wmboyles.com/assets/Images/Index/MyPicture2.jpg" width="172px" height="172px"/>
 </p>
 
 ## I'm a Student and Developer
