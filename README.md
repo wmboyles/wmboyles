@@ -8,7 +8,7 @@
 - :mortar_board: I'm a junior in computer science :desktop_computer: at NC State :wolf:
 - :seedling: I'm working on learning more Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> libraries
 - <img alt="code symbol" width="18pt" src="https://assets.dryicons.com/uploads/icon/svg/5847/8e3b79e3-a480-4598-b8b8-10f902c997b7.svg"> My favorite programming languages are Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and Java <img alt="Java logo" width="18pt" src="https://sdc.csc.ncsu.edu/img/techres/java-logo.svg" />
-- :goal_net: 2020 goal: Contribute more to open-source projects (including [my own](https://github.com/wmboyles/Math-Summaries))
+- :goal_net: 2021 goal: Contribute more to open-source projects (including [my own](https://github.com/wmboyles/Math-Summaries))
 
 ### Connect with me
 [<img align="left" alt="wmboyles website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
