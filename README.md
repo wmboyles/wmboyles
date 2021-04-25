@@ -21,7 +21,7 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Java" width="26px" src="https://sdc.csc.ncsu.edu/img/techres/java-logo.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg" />
+<!-- <img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /> -->
 <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" />
 <img align="left" alt="LaTeX" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
