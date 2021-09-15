@@ -5,7 +5,7 @@
 </p>
 
 ## I'm a Student and Developer
-- :mortar_board: I'm a junior in computer science :desktop_computer: at NC State :wolf:
+- :mortar_board: I'm a senior in computer science :desktop_computer: and mathematics :notebook: at NC State :wolf:
 - :seedling: I'm working on learning more Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> libraries
 - <img alt="code symbol" width="18pt" src="https://assets.dryicons.com/uploads/icon/svg/5847/8e3b79e3-a480-4598-b8b8-10f902c997b7.svg"> My favorite programming languages are Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and Java <img alt="Java logo" width="18pt" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
 - :goal_net: 2021 goal: Contribute more to open-source projects (including [my own](https://github.com/wmboyles/Math-Summaries))
@@ -22,16 +22,16 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /> -->
-<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" />
+<!-- <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png" /> -->
 <img align="left" alt="LaTeX" width="26px" src="https://i.stack.imgur.com/t5VF4.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
+<!-- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
 
 <br /><br />
 
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-<img align="left" alt="kubernetes" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
+<!-- <img align="left" alt="docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> -->
+<!-- <img align="left" alt="kubernetes" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" /> -->
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
 <img align="left" alt="jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/339px-Jenkins_logo.svg.png" />
