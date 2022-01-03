@@ -9,7 +9,7 @@
 - :seedling: I'm working on learning more Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> libraries
 - :goal_net: 2022 goal: Contribute more to open-source projects (including [my own](https://github.com/wmboyles/Math-Summaries))
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wmboyles&show_icons=true&locale=en&count_private=true&theme=omni&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wmboyles&show_icons=true&locale=en&count_private=true&theme=omni&hide_rank=true" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmboyles&theme=omni&layout=compact" /></p>
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
