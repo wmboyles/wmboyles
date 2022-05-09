@@ -1,6 +1,6 @@
 ### Hi, I'm William Boyles :wave:
 
-- :mortar_board: I'm a senior in computer science :desktop_computer: and mathematics :notebook: at NC State :wolf:
+- :mortar_board: I have degrees in computer science :desktop_computer: and mathematics :notebook: from NC State :wolf:
 - :seedling: I'm working on learning more Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> libraries
 - :goal_net: 2022 goal: Contribute more to open-source projects (including [my own](https://github.com/wmboyles/Math-Summaries))
 
